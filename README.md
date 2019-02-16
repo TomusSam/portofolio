@@ -1,5 +1,5 @@
 This is my portofolio
 =====================
 
-* test1
-* test2
+* This app served as a FreeCodeCamp project.
+* It includes all the projects worked.
